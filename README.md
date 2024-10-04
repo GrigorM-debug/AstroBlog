@@ -1,10 +1,11 @@
 # AstroBlog
 This is a personal blog website built using **[Astro](https://astro.build/)**, following the tutorial provided in the [Astro documentation](https://docs.astro.build). The blog site is designed to be fast, minimalistic, and SEO-friendly, with support for generating RSS feeds and static pages for easy content publishing.
 
-Here, I’d like to share a link to a fantastic site built by **Takuya Matsuyama**, a solo developer from Japan, known for creating the Markdown note-taking app **Inkdropto**. This site is an excellent example of Astro's power in creating fast and minimalistic websites.
+Here, I’d like to share a link to a fantastic site built by [**Takuya Matsuyama**](https://github.com/craftzdog/), a solo developer from Japan, known for creating the Markdown note-taking app **Inkdropto**. This site is an excellent example of Astro's power in creating fast and minimalistic websites.
 
 - Link to the site: [https://uses.craftz.dog/](https://uses.craftz.dog/)
 - Link to the YouTube video: [How to create a 'What I Use' blog with Astro and Tailwind CSS (at a hotel lounge)](https://www.youtube.com/watch?v=3_JE76PKBWE&t=6250s)
+
 
 
 ## 🚀 About Astro
