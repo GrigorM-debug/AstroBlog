@@ -79,3 +79,11 @@ html {
         display: none;
     }
   }
+  html.dark {
+    background-color: rgb(51, 49, 49);
+    color: #fff;
+  }
+  
+  .dark .nav-links a {
+    color: #fff;
+  }
